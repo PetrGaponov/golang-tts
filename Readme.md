@@ -1,4 +1,5 @@
 # Forked from  https://github.com/leprosus/golang-tts
+## Add pcm codec support by default
 # Golang Text-to-Speech package base on AWS Polly
 
 ## Getting access
